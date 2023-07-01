@@ -1,0 +1,8 @@
+{
+    "users": [
+      {"coffeeImagePath": "https://en.wikipedia.org/wiki/Coffee_bean"  },
+      {"coffeeName": "Latte"  },
+      {"coffeePrice": "4.20" }
+    ]
+  }
+  
